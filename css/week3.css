@@ -1,17 +1,18 @@
 body{
 	margin: 1%;
 	padding:1%;
-	background-color: rgba(0,0,255,.2);
+	background-color: #000080;
 	font-size: 100%;
 	min-width: 500px;
-	color:rgba(255,215,0,.7)
+	color:gold;
 	background-image: https://thumbs.dreamstime.com/z/abstract-christmas-party-background-golden-glitter-defocused-effect-shiny-night-lights-bulb-197790424.jpg ;
 
 }
 header, footer{
-  background-color:#0066FF;
+  background-color:#000080;
   padding: 1%;
   margin: 1%;
+  color:gold;
 }
 header h1{
 	font-size: 3em;
