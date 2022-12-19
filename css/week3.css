@@ -22,6 +22,13 @@ section{
   margin:1%;
     padding:1%;
 }
+nav{
+	border: 1px solid #06425C;
+	color:#06425C;
+	background-color:#FFFFFF;
+	overflow: auto;
+	padding-left:8%;
+}
 
 nav a{
 	display:block;
@@ -72,7 +79,7 @@ footer{
 
 iframe {
 	width:50%;
-	height:50%;
+	height:70%;
 }
 
 @media only screen and (min-width: 900px) {
