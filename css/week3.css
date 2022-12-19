@@ -50,7 +50,7 @@ h1{
 }
 
   #left{
-	  padding-left:30%;
+	  padding-left:35%;
   }
 
 
@@ -115,7 +115,7 @@ h1{
   }
   #center{
     display:inline-block;
-	color:gold;
+	color:;
 	width:60%;
   }
    h1::after {
