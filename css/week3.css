@@ -13,7 +13,7 @@ header, footer{
   margin: 1%;
 }
 header h1{
-	font-size: 3rem;
+	font-size: 3em;
 	color:rgba(0,0,0,.7);;
 
 }
@@ -24,11 +24,11 @@ section{
 }
 
 nav a{
-	display:block;
+	display:inline-blockblock;
 	background-color: white;
 	border: 1px solid black;
 	text-align: center;
-	border-radius: 35px;
+	border-radius: 15px;
 	text-decoration: none;
 	padding: 2%;
 	margin: 1%;
