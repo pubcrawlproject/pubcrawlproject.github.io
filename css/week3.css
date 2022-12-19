@@ -88,22 +88,7 @@ footer{
 	width:60%
   }
    h1::after {
-    content:"“I guess”??"
+    content:""
   }
 }
 
-@media only print(min-width: 900px) {
-  header, footer{
-  background-color:white
-}
-  img{
-	display:inline;
-   }
-  .myClass{
-    display:inline-block;
-      }
-  section{
-    display:inline-block;
-  }
-  :after{}
-}
