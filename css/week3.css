@@ -5,7 +5,7 @@ body{
 	font-size: 100%;
 	min-width: 500px;
 	color:gold;
-	background-image: https://thumbs.dreamstime.com/z/abstract-christmas-party-background-golden-glitter-defocused-effect-shiny-night-lights-bulb-197790424.jpg ;
+	background-image:;
 
 }
 header, footer{
@@ -121,8 +121,5 @@ h1{
    h1::after {
     content:""
   }
-  iframe {
-	width:600;
-	height:800;
 }
 
