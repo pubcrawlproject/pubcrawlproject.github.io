@@ -83,8 +83,12 @@ iframe {
 }
 
 @media only screen and (min-width: 900px) {
-  header, footer{
+  header, body, footer{
   background-color:#000080;
+}
+
+h1{
+	color:gold;
 }
   img{
   display:inline-block;
