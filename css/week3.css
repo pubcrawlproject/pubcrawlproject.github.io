@@ -48,6 +48,10 @@ h1{
 	color:rgba(255,215,0,.7);
 }
 
+  #left{
+	  padding:20%;
+  }
+
 
 .myClass{
 	margin: 0em 1em;
