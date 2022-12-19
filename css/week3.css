@@ -84,7 +84,7 @@ iframe {
 
 @media only screen and (min-width: 900px) {
   header, footer{
-  background-color:transparent;
+  background-color:#000080;
 }
   img{
   display:inline-block;
@@ -104,5 +104,8 @@ iframe {
    h1::after {
     content:""
   }
+  iframe {
+	width:80%;
+	height:100%;
 }
 
