@@ -50,7 +50,7 @@ h1{
 }
 
   #left{
-	  padding-left:20%;
+	  padding-left:30%;
   }
 
 
@@ -72,6 +72,7 @@ h1{
 ol{
 	list-style:upper-roman; 
 	margin:1em;
+	font-size:1em;
 }
 img{
 	display: none;
@@ -87,6 +88,7 @@ footer{
 iframe {
 	width:50%;
 	height:70%;
+	padding-left:30%;
 }
 
 @media only screen and (min-width: 900px) {
