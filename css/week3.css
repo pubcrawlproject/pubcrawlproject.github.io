@@ -14,7 +14,7 @@ header, footer{
 }
 header h1{
 	font-size: 3em;
-	color:rgba(0,0,0,.7);;
+	color:gold;
 
 }
 
@@ -27,7 +27,7 @@ nav{
 	color:#06425C;
 	background-color:#FFFFFF;
 	overflow: auto;
-	padding-left:8%;
+	padding-left:;
 }
 
 nav a{
