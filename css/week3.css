@@ -32,6 +32,7 @@ nav a{
 	text-decoration: none;
 	padding: 2%;
 	margin: 1%;
+	position: static;
 }
 
 h1{
@@ -70,8 +71,8 @@ footer{
 }
 
 iframe {
-	width:30%;
-	height:30%;
+	width:50%;
+	height:50%;
 }
 
 @media only screen and (min-width: 900px) {
