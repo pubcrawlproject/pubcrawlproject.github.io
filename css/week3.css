@@ -118,15 +118,14 @@ th {
 nav {
 	
 	background-color: #333;
+	padding-left:40%;
 	
 }
 nav a {
 	display:;
 	color: #000000;
-	background-color:#FFFFFF;
 	text-align: center;
-	padding-left:40%;
-
+	
 }
 
 h1{
