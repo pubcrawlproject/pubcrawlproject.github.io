@@ -122,8 +122,10 @@ nav {
 }
 nav a {
 	display:;
-	color: #f2f2f2;
+	color: #000000;
+	background-color:#FFFFFF;
 	text-align: center;
+	padding-left:40%;
 
 }
 
