@@ -118,7 +118,8 @@ th {
 nav {
 	
 	background-color: #333;
-			
+	display: flex;
+	font-size:15px;
 }
 nav a {
 	display:;
