@@ -57,7 +57,7 @@ h1{
 .myClass{
 	margin: 0em 1em;
 	padding:.75em;
-	border: 1px solid black;
+	border:;
 	border-radius: .25%;
 
 	/* Safari and Chrome */	
@@ -143,11 +143,13 @@ h1{
 	float: left;
 	color:gold;
 	padding:2%;
+	border:1px solid black;
   }
   #center{
     display:inline-block;
 	color:;
 	width:60%;
+	border:1px solid black;
   }
    h1::after {
     content:""
