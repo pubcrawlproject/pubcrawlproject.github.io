@@ -114,6 +114,9 @@ th {
   background-color:#000080;
   color:gold;
 }
+nav a {
+	display: inline;
+}
 
 h1{
 	color:gold;
