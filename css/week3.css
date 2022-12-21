@@ -116,6 +116,8 @@ th {
 }
 nav a {
 	display: inline;
+	border-radius: 0px;
+	position: fixed;
 }
 
 h1{
